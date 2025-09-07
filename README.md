@@ -4,4 +4,4 @@ Not exactly a programmer, just trying to learn new things here and there (ﾉ*Ф
 
 - Working on my profile
 - I'm currently learning html, css and git
-- Next one will be Java
+- Next one will be JavaScrpt
